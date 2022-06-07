@@ -1,3 +1,19 @@
 body {
 	background-color: #000;
 }
+
+.previewtext {
+	font-size: 10px;
+	letter-spacing: 1px;
+	color: #bcbcbc;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	opacity: 0.2;
+}
+
+.kalb {
+	max-height: 800px;
+	overflow: auto;
+}
